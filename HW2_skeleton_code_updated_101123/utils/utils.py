@@ -19,7 +19,7 @@ def softmax(x):
 
     Arguments:
     x -- A D dimensional vector or N x D dimensional numpy matrix.
-    Return:
+    Return:+
     x -- You are allowed to modify x in-place
     """
     orig_shape = x.shape
